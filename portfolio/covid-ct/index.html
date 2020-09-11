@@ -241,8 +241,8 @@
 <img title="Covid Detection through CT scans" alt="Covid Detection through CT scans" src="https://mano3-1.github.io/website/portfolio/covid-ct/CT_.png" />
 
 <p>Covid is a dreadful infection which is hard to detect. So, we have tried to design a model which can predict Covid from CT scans. This assist radiologist and make their process much easier. The dataset was collected from various sources such as a open sourced github repo and from some hospitals.
-Since the data collected is pretty less, we have a model, BCD-Unet for segmentation of lungs on open sourced lung dataset in kaggle.
-Then used the same model for segmenting out the lungs of covid CT scans. These are used to train a efficient as a classifier!</p>
+Since the data collected is pretty less, we have trained a model, BCD-Unet for segmentation of lungs on open sourced lung dataset in kaggle.
+And lungs are segmented out using the above trained segmentation model(Basically we are doing an ROI cutting to ensure that classifier will look only at lungs thus makes the classificatio more reliable). Now, These are used to train a efficient as a classifier!</p>
 <p>Feel free to visit my <a href="https://github.com/mano3-1/Covid-detection-with-CT-scans">github</a> repo for deeper details.</p>
 
 
