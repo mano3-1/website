@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensorflow on Manoj Akondi</title>
+    <link>https://mano3-1.github.io/website/techs/tensorflow/</link>
+    <description>Recent content in Tensorflow on Manoj Akondi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Manoj Akondi</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mano3-1.github.io/website/techs/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Covid Detection through CT scans</title>
+      <link>https://mano3-1.github.io/website/portfolio/covid-ct/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/covid-ct/</guid>
+      <description>Covid is a dreadful infection which is hard to detect. So, we have tried to design a model which can predict Covid from CT scans. This assist radiologist and make their process much easier. The dataset was collected from various sources such as a open sourced github repo and from some hospitals. Since the data collected is pretty less, we have a model, BCD-Unet for segmentation of lungs on open sourced lung dataset in kaggle.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Extractor - The transformer</title>
+      <link>https://mano3-1.github.io/website/portfolio/project-2/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/project-2/</guid>
+      <description>The problem here is to extract group of words or phrase from a given sentence which strongly supports the corresponding given sentiment. So unlike traditional text analysis task, here group of words are to be predicted. Inspired from the idea of how we train a object detector, I have done the same here. I have trained a transformer to identify one hots of &amp;lsquo;boundaries&amp;rsquo;. For a traditional image detection, we will predict four parameters x,y,w,h.</description>
+    </item>
+    
+    <item>
+      <title>Wheat Detection-The efficientcentredet</title>
+      <link>https://mano3-1.github.io/website/portfolio/sample-project/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/sample-project/</guid>
+      <description>In this project, I have built an object detector from scratch to detect wheat from image inputs. The problem here is to create a detector which could potentially detect wheat heads of different sizes. The challenge here is data. It contains less no of datapoints for bigger wheat heads which makes model biased towards smaller wheat heads.
+I have used a special trick in the loss function to get a boost in the performance.</description>
+    </item>
+    
+    <item>
+      <title>Human Activity Recognition- The posenet</title>
+      <link>https://mano3-1.github.io/website/portfolio/har/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/har/</guid>
+      <description>This is one of the cool experiments that I have done. Human Activity Recognition is the key for many pose based games and also widely used in human computer interaction. Most of the work is done using sensor values as inputs. But, I have chosen a different way and tried it with singe RGB camera. Pose information is the key to decide what activity human is involved in. So I used a pretrained posenet model(by google) and extracted the heatmaps for a series of frames which are then feed to a neural net containing ConvLSTMS to classify what action human is doing in that particular video .</description>
+    </item>
+    
+    <item>
+      <title>Stock Market prediction - The tabnet</title>
+      <link>https://mano3-1.github.io/website/portfolio/stock_prediction/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/stock_prediction/</guid>
+      <description>Predicting stock value is really important to yield significant profit. Taking the features or factors that effect the yield, I have done a regression using the latest deep learning architecture &amp;lsquo;Tabnet&amp;rsquo; and a xg boost, and used an ensemble of both the models for final prediction. The other problem is to predict put calls ratio which is a time dependent factor. I have used an RNN for predicting PCR of one day using past three days data.</description>
+    </item>
+    
+    <item>
+      <title>Movie Rating Predictor - The transformer</title>
+      <link>https://mano3-1.github.io/website/portfolio/sentiment_extraction/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/sentiment_extraction/</guid>
+      <description>Many movie rating sites are in need of machine&amp;rsquo;s help these days. Due, to growing number of people reviewing movies, It&amp;rsquo;s hard for people to read each review and give it a rating. The aim here is to automate this process i.e machines should understand the language and automatically should output the rating based on reviews given by humans. Transformers are the state of the art models especially used in Natural Language Processing(NLP).</description>
+    </item>
+    
+  </channel>
+</rss>

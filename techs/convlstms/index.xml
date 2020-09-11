@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ConvLSTMS on Manoj Akondi</title>
+    <link>https://mano3-1.github.io/website/techs/convlstms/</link>
+    <description>Recent content in ConvLSTMS on Manoj Akondi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Manoj Akondi</copyright>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mano3-1.github.io/website/techs/convlstms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human Activity Recognition- The posenet</title>
+      <link>https://mano3-1.github.io/website/portfolio/har/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/har/</guid>
+      <description>This is one of the cool experiments that I have done. Human Activity Recognition is the key for many pose based games and also widely used in human computer interaction. Most of the work is done using sensor values as inputs. But, I have chosen a different way and tried it with singe RGB camera. Pose information is the key to decide what activity human is involved in. So I used a pretrained posenet model(by google) and extracted the heatmaps for a series of frames which are then feed to a neural net containing ConvLSTMS to classify what action human is doing in that particular video .</description>
+    </item>
+    
+  </channel>
+</rss>

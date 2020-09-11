@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Manoj Akondi</title>
+    <link>https://mano3-1.github.io/website/techs/computer-vision/</link>
+    <description>Recent content in Computer Vision on Manoj Akondi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Manoj Akondi</copyright>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mano3-1.github.io/website/techs/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wheat Detection-The efficientcentredet</title>
+      <link>https://mano3-1.github.io/website/portfolio/sample-project/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/sample-project/</guid>
+      <description>In this project, I have built an object detector from scratch to detect wheat from image inputs. The problem here is to create a detector which could potentially detect wheat heads of different sizes. The challenge here is data. It contains less no of datapoints for bigger wheat heads which makes model biased towards smaller wheat heads.
+I have used a special trick in the loss function to get a boost in the performance.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on Manoj Akondi</title>
+    <link>https://mano3-1.github.io/website/techs/</link>
+    <description>Recent content in Techs on Manoj Akondi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Manoj Akondi</copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mano3-1.github.io/website/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CNNs</title>
+      <link>https://mano3-1.github.io/website/techs/cnns/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/cnns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Segmentation</title>
+      <link>https://mano3-1.github.io/website/techs/image-segmentation/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opencv</title>
+      <link>https://mano3-1.github.io/website/techs/opencv/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://mano3-1.github.io/website/techs/python/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://mano3-1.github.io/website/techs/tensorflow/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://mano3-1.github.io/website/techs/computer-vision/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandas</title>
+      <link>https://mano3-1.github.io/website/techs/pandas/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text tokenizers</title>
+      <link>https://mano3-1.github.io/website/techs/text-tokenizers/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/text-tokenizers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transformers</title>
+      <link>https://mano3-1.github.io/website/techs/transformers/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/transformers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConvLSTMS</title>
+      <link>https://mano3-1.github.io/website/techs/convlstms/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/convlstms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pytorch</title>
+      <link>https://mano3-1.github.io/website/techs/pytorch/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNNs</title>
+      <link>https://mano3-1.github.io/website/techs/rnns/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/rnns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugging Face Transformers</title>
+      <link>https://mano3-1.github.io/website/techs/hugging-face-transformers/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/hugging-face-transformers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tokenizers</title>
+      <link>https://mano3-1.github.io/website/techs/tokenizers/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/techs/tokenizers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text tokenizers on Manoj Akondi</title>
+    <link>https://mano3-1.github.io/website/techs/text-tokenizers/</link>
+    <description>Recent content in text tokenizers on Manoj Akondi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Manoj Akondi</copyright>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mano3-1.github.io/website/techs/text-tokenizers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentiment Extractor - The transformer</title>
+      <link>https://mano3-1.github.io/website/portfolio/project-2/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/project-2/</guid>
+      <description>The problem here is to extract group of words or phrase from a given sentence which strongly supports the corresponding given sentiment. So unlike traditional text analysis task, here group of words are to be predicted. Inspired from the idea of how we train a object detector, I have done the same here. I have trained a transformer to identify one hots of &amp;lsquo;boundaries&amp;rsquo;. For a traditional image detection, we will predict four parameters x,y,w,h.</description>
+    </item>
+    
+  </channel>
+</rss>

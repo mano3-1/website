@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pandas on Manoj Akondi</title>
+    <link>https://mano3-1.github.io/website/techs/pandas/</link>
+    <description>Recent content in pandas on Manoj Akondi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Manoj Akondi</copyright>
+    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mano3-1.github.io/website/techs/pandas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentiment Extractor - The transformer</title>
+      <link>https://mano3-1.github.io/website/portfolio/project-2/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/project-2/</guid>
+      <description>The problem here is to extract group of words or phrase from a given sentence which strongly supports the corresponding given sentiment. So unlike traditional text analysis task, here group of words are to be predicted. Inspired from the idea of how we train a object detector, I have done the same here. I have trained a transformer to identify one hots of &amp;lsquo;boundaries&amp;rsquo;. For a traditional image detection, we will predict four parameters x,y,w,h.</description>
+    </item>
+    
+    <item>
+      <title>Movie Rating Predictor - The transformer</title>
+      <link>https://mano3-1.github.io/website/portfolio/sentiment_extraction/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/sentiment_extraction/</guid>
+      <description>Many movie rating sites are in need of machine&amp;rsquo;s help these days. Due, to growing number of people reviewing movies, It&amp;rsquo;s hard for people to read each review and give it a rating. The aim here is to automate this process i.e machines should understand the language and automatically should output the rating based on reviews given by humans. Transformers are the state of the art models especially used in Natural Language Processing(NLP).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pytorch on Manoj Akondi</title>
+    <link>https://mano3-1.github.io/website/techs/pytorch/</link>
+    <description>Recent content in pytorch on Manoj Akondi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Manoj Akondi</copyright>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mano3-1.github.io/website/techs/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stock Market prediction - The tabnet</title>
+      <link>https://mano3-1.github.io/website/portfolio/stock_prediction/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mano3-1.github.io/website/portfolio/stock_prediction/</guid>
+      <description>Predicting stock value is really important to yield significant profit. Taking the features or factors that effect the yield, I have done a regression using the latest deep learning architecture &amp;lsquo;Tabnet&amp;rsquo; and a xg boost, and used an ensemble of both the models for final prediction. The other problem is to predict put calls ratio which is a time dependent factor. I have used an RNN for predicting PCR of one day using past three days data.</description>
+    </item>
+    
+  </channel>
+</rss>
